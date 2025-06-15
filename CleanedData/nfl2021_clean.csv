@@ -1,0 +1,273 @@
+,Week,home_team,away_team,home_points,away_points,home_yards,home_to,away_yards,away_to
+0,1.0,Tampa Bay Buccaneers,Dallas Cowboys,31.0,29.0,431.0,4.0,451.0,1.0
+1,1.0,Atlanta Falcons,Philadelphia Eagles,6.0,32.0,260.0,0.0,434.0,0.0
+2,1.0,Buffalo Bills,Pittsburgh Steelers,16.0,23.0,371.0,1.0,252.0,0.0
+3,1.0,Carolina Panthers,New York Jets,19.0,14.0,381.0,1.0,252.0,1.0
+4,1.0,Cincinnati Bengals,Minnesota Vikings,27.0,24.0,366.0,0.0,403.0,1.0
+5,1.0,Indianapolis Colts,Seattle Seahawks,16.0,28.0,336.0,1.0,381.0,1.0
+6,1.0,Tennessee Titans,Arizona Cardinals,13.0,38.0,248.0,3.0,416.0,1.0
+7,1.0,Detroit Lions,San Francisco 49ers,33.0,41.0,430.0,1.0,442.0,2.0
+8,1.0,Houston Texans,Jacksonville Jaguars,37.0,21.0,449.0,0.0,395.0,3.0
+9,1.0,Washington Football Team,Los Angeles Chargers,16.0,20.0,259.0,1.0,424.0,2.0
+10,1.0,Kansas City Chiefs,Cleveland Browns,33.0,29.0,397.0,0.0,457.0,2.0
+11,1.0,New York Giants,Denver Broncos,13.0,27.0,314.0,1.0,420.0,1.0
+12,1.0,New Orleans Saints,Green Bay Packers,38.0,3.0,322.0,0.0,229.0,3.0
+13,1.0,New England Patriots,Miami Dolphins,16.0,17.0,393.0,2.0,259.0,1.0
+14,1.0,Los Angeles Rams,Chicago Bears,34.0,14.0,386.0,0.0,322.0,2.0
+15,1.0,Las Vegas Raiders,Baltimore Ravens,33.0,27.0,491.0,1.0,406.0,2.0
+16,2.0,Washington Football Team,New York Giants,30.0,29.0,407.0,1.0,391.0,0.0
+17,2.0,Miami Dolphins,Buffalo Bills,0.0,35.0,216.0,3.0,314.0,2.0
+18,2.0,Carolina Panthers,New Orleans Saints,26.0,7.0,383.0,1.0,128.0,2.0
+19,2.0,Chicago Bears,Cincinnati Bengals,20.0,17.0,206.0,1.0,248.0,4.0
+20,2.0,Cleveland Browns,Houston Texans,31.0,21.0,355.0,2.0,302.0,2.0
+21,2.0,Indianapolis Colts,Los Angeles Rams,24.0,27.0,354.0,2.0,371.0,2.0
+22,2.0,Jacksonville Jaguars,Denver Broncos,13.0,23.0,189.0,2.0,398.0,0.0
+23,2.0,New York Jets,New England Patriots,6.0,25.0,336.0,4.0,260.0,0.0
+24,2.0,Philadelphia Eagles,San Francisco 49ers,11.0,17.0,328.0,0.0,306.0,0.0
+25,2.0,Pittsburgh Steelers,Las Vegas Raiders,17.0,26.0,331.0,1.0,425.0,0.0
+26,2.0,Tampa Bay Buccaneers,Atlanta Falcons,48.0,25.0,341.0,1.0,348.0,3.0
+27,2.0,Arizona Cardinals,Minnesota Vikings,34.0,33.0,474.0,2.0,419.0,0.0
+28,2.0,Los Angeles Chargers,Dallas Cowboys,17.0,20.0,408.0,2.0,419.0,1.0
+29,2.0,Seattle Seahawks,Tennessee Titans,30.0,33.0,397.0,0.0,532.0,1.0
+30,2.0,Baltimore Ravens,Kansas City Chiefs,36.0,35.0,481.0,2.0,405.0,2.0
+31,2.0,Green Bay Packers,Detroit Lions,35.0,17.0,323.0,0.0,344.0,2.0
+32,3.0,Houston Texans,Carolina Panthers,9.0,24.0,193.0,0.0,407.0,0.0
+33,3.0,New York Giants,Atlanta Falcons,14.0,17.0,346.0,1.0,296.0,1.0
+34,3.0,Buffalo Bills,Washington Football Team,43.0,21.0,481.0,0.0,290.0,3.0
+35,3.0,Cleveland Browns,Chicago Bears,26.0,6.0,418.0,0.0,47.0,0.0
+36,3.0,Pittsburgh Steelers,Cincinnati Bengals,10.0,24.0,342.0,2.0,268.0,1.0
+37,3.0,Tennessee Titans,Indianapolis Colts,25.0,16.0,368.0,3.0,265.0,0.0
+38,3.0,Jacksonville Jaguars,Arizona Cardinals,19.0,31.0,361.0,4.0,407.0,1.0
+39,3.0,Detroit Lions,Baltimore Ravens,17.0,19.0,285.0,0.0,387.0,1.0
+40,3.0,Kansas City Chiefs,Los Angeles Chargers,24.0,30.0,437.0,4.0,352.0,0.0
+41,3.0,New England Patriots,New Orleans Saints,13.0,28.0,300.0,3.0,252.0,0.0
+42,3.0,Denver Broncos,New York Jets,26.0,0.0,343.0,1.0,162.0,2.0
+43,3.0,Las Vegas Raiders,Miami Dolphins,31.0,28.0,497.0,1.0,330.0,0.0
+44,3.0,Minnesota Vikings,Seattle Seahawks,30.0,17.0,453.0,0.0,389.0,0.0
+45,3.0,Los Angeles Rams,Tampa Bay Buccaneers,34.0,24.0,407.0,0.0,446.0,0.0
+46,3.0,San Francisco 49ers,Green Bay Packers,28.0,30.0,298.0,2.0,353.0,0.0
+47,3.0,Dallas Cowboys,Philadelphia Eagles,41.0,21.0,380.0,1.0,367.0,2.0
+48,4.0,Cincinnati Bengals,Jacksonville Jaguars,24.0,21.0,420.0,0.0,341.0,0.0
+49,4.0,Atlanta Falcons,Washington Football Team,30.0,34.0,374.0,0.0,412.0,0.0
+50,4.0,Buffalo Bills,Houston Texans,40.0,0.0,450.0,1.0,109.0,5.0
+51,4.0,Dallas Cowboys,Carolina Panthers,36.0,28.0,433.0,0.0,379.0,2.0
+52,4.0,Chicago Bears,Detroit Lions,24.0,14.0,373.0,1.0,351.0,2.0
+53,4.0,Minnesota Vikings,Cleveland Browns,7.0,14.0,255.0,1.0,327.0,0.0
+54,4.0,Miami Dolphins,Indianapolis Colts,17.0,27.0,203.0,2.0,349.0,1.0
+55,4.0,Philadelphia Eagles,Kansas City Chiefs,30.0,42.0,461.0,0.0,471.0,1.0
+56,4.0,New Orleans Saints,New York Giants,21.0,27.0,405.0,1.0,485.0,1.0
+57,4.0,New York Jets,Tennessee Titans,27.0,24.0,355.0,1.0,430.0,0.0
+58,4.0,Los Angeles Rams,Arizona Cardinals,20.0,37.0,401.0,2.0,465.0,0.0
+59,4.0,San Francisco 49ers,Seattle Seahawks,21.0,28.0,457.0,2.0,234.0,0.0
+60,4.0,Denver Broncos,Baltimore Ravens,7.0,23.0,254.0,1.0,406.0,0.0
+61,4.0,Green Bay Packers,Pittsburgh Steelers,27.0,17.0,367.0,1.0,282.0,2.0
+62,4.0,New England Patriots,Tampa Bay Buccaneers,17.0,19.0,294.0,2.0,381.0,0.0
+63,4.0,Los Angeles Chargers,Las Vegas Raiders,28.0,14.0,380.0,0.0,213.0,1.0
+64,5.0,Seattle Seahawks,Los Angeles Rams,17.0,26.0,354.0,2.0,476.0,1.0
+65,5.0,Atlanta Falcons,New York Jets,27.0,20.0,450.0,2.0,230.0,1.0
+66,5.0,Carolina Panthers,Philadelphia Eagles,18.0,21.0,267.0,3.0,273.0,2.0
+67,5.0,Cincinnati Bengals,Green Bay Packers,22.0,25.0,367.0,2.0,466.0,1.0
+68,5.0,Pittsburgh Steelers,Denver Broncos,27.0,19.0,391.0,1.0,374.0,1.0
+69,5.0,Minnesota Vikings,Detroit Lions,19.0,17.0,384.0,2.0,288.0,2.0
+70,5.0,Houston Texans,New England Patriots,22.0,25.0,360.0,1.0,352.0,2.0
+71,5.0,Jacksonville Jaguars,Tennessee Titans,19.0,37.0,454.0,2.0,368.0,0.0
+72,5.0,Tampa Bay Buccaneers,Miami Dolphins,45.0,17.0,558.0,0.0,301.0,2.0
+73,5.0,Washington Football Team,New Orleans Saints,22.0,33.0,373.0,2.0,369.0,2.0
+74,5.0,Las Vegas Raiders,Chicago Bears,9.0,20.0,259.0,1.0,252.0,0.0
+75,5.0,Los Angeles Chargers,Cleveland Browns,47.0,42.0,493.0,1.0,531.0,0.0
+76,5.0,Arizona Cardinals,San Francisco 49ers,17.0,10.0,304.0,1.0,338.0,1.0
+77,5.0,Dallas Cowboys,New York Giants,44.0,20.0,515.0,2.0,367.0,2.0
+78,5.0,Kansas City Chiefs,Buffalo Bills,20.0,38.0,392.0,4.0,436.0,0.0
+79,5.0,Baltimore Ravens,Indianapolis Colts,31.0,25.0,523.0,1.0,513.0,1.0
+80,6.0,Philadelphia Eagles,Tampa Bay Buccaneers,22.0,28.0,213.0,1.0,399.0,1.0
+81,6.0,Jacksonville Jaguars,Miami Dolphins,23.0,20.0,396.0,1.0,431.0,1.0
+82,6.0,Carolina Panthers,Minnesota Vikings,28.0,34.0,306.0,3.0,571.0,1.0
+83,6.0,Chicago Bears,Green Bay Packers,14.0,24.0,277.0,1.0,323.0,0.0
+84,6.0,Detroit Lions,Cincinnati Bengals,11.0,34.0,228.0,1.0,398.0,1.0
+85,6.0,Indianapolis Colts,Houston Texans,31.0,3.0,388.0,0.0,353.0,3.0
+86,6.0,Washington Football Team,Kansas City Chiefs,13.0,31.0,276.0,2.0,499.0,3.0
+87,6.0,New York Giants,Los Angeles Rams,11.0,38.0,261.0,4.0,365.0,2.0
+88,6.0,Baltimore Ravens,Los Angeles Chargers,34.0,6.0,327.0,2.0,208.0,1.0
+89,6.0,Cleveland Browns,Arizona Cardinals,14.0,37.0,290.0,3.0,352.0,0.0
+90,6.0,New England Patriots,Dallas Cowboys,29.0,35.0,335.0,2.0,567.0,2.0
+91,6.0,Denver Broncos,Las Vegas Raiders,24.0,34.0,421.0,4.0,426.0,0.0
+92,6.0,Pittsburgh Steelers,Seattle Seahawks,23.0,20.0,345.0,1.0,309.0,1.0
+93,6.0,Tennessee Titans,Buffalo Bills,34.0,31.0,362.0,1.0,417.0,1.0
+94,7.0,Cleveland Browns,Denver Broncos,17.0,14.0,376.0,0.0,223.0,1.0
+95,7.0,Miami Dolphins,Atlanta Falcons,28.0,30.0,413.0,2.0,397.0,2.0
+96,7.0,New York Giants,Carolina Panthers,25.0,3.0,302.0,0.0,173.0,1.0
+97,7.0,Baltimore Ravens,Cincinnati Bengals,17.0,41.0,393.0,0.0,520.0,1.0
+98,7.0,Green Bay Packers,Washington Football Team,24.0,10.0,304.0,1.0,430.0,2.0
+99,7.0,Tennessee Titans,Kansas City Chiefs,27.0,3.0,369.0,1.0,334.0,3.0
+100,7.0,New England Patriots,New York Jets,54.0,13.0,551.0,0.0,299.0,3.0
+101,7.0,Los Angeles Rams,Detroit Lions,28.0,19.0,374.0,0.0,415.0,2.0
+102,7.0,Las Vegas Raiders,Philadelphia Eagles,33.0,22.0,442.0,1.0,358.0,2.0
+103,7.0,Tampa Bay Buccaneers,Chicago Bears,38.0,3.0,408.0,1.0,311.0,5.0
+104,7.0,Arizona Cardinals,Houston Texans,31.0,5.0,397.0,1.0,160.0,1.0
+105,7.0,San Francisco 49ers,Indianapolis Colts,18.0,30.0,280.0,4.0,295.0,2.0
+106,7.0,Seattle Seahawks,New Orleans Saints,10.0,13.0,219.0,0.0,304.0,1.0
+107,8.0,Arizona Cardinals,Green Bay Packers,21.0,24.0,334.0,3.0,335.0,0.0
+108,8.0,Atlanta Falcons,Carolina Panthers,13.0,19.0,213.0,2.0,332.0,1.0
+109,8.0,Buffalo Bills,Miami Dolphins,26.0,11.0,351.0,0.0,262.0,2.0
+110,8.0,Chicago Bears,San Francisco 49ers,22.0,33.0,324.0,1.0,467.0,0.0
+111,8.0,New York Jets,Cincinnati Bengals,34.0,31.0,511.0,3.0,318.0,1.0
+112,8.0,Cleveland Browns,Pittsburgh Steelers,10.0,15.0,306.0,1.0,370.0,0.0
+113,8.0,Indianapolis Colts,Tennessee Titans,31.0,34.0,307.0,3.0,340.0,2.0
+114,8.0,Detroit Lions,Philadelphia Eagles,6.0,44.0,228.0,1.0,350.0,0.0
+115,8.0,Houston Texans,Los Angeles Rams,22.0,38.0,323.0,1.0,467.0,0.0
+116,8.0,Seattle Seahawks,Jacksonville Jaguars,31.0,7.0,229.0,0.0,309.0,1.0
+117,8.0,Los Angeles Chargers,New England Patriots,24.0,27.0,369.0,2.0,352.0,1.0
+118,8.0,New Orleans Saints,Tampa Bay Buccaneers,36.0,27.0,361.0,0.0,421.0,3.0
+119,8.0,Denver Broncos,Washington Football Team,17.0,10.0,273.0,1.0,342.0,2.0
+120,8.0,Minnesota Vikings,Dallas Cowboys,16.0,20.0,278.0,0.0,419.0,2.0
+121,8.0,Kansas City Chiefs,New York Giants,20.0,17.0,368.0,2.0,300.0,1.0
+122,9.0,Indianapolis Colts,New York Jets,45.0,30.0,532.0,0.0,486.0,2.0
+123,9.0,New Orleans Saints,Atlanta Falcons,25.0,27.0,376.0,1.0,366.0,0.0
+124,9.0,Jacksonville Jaguars,Buffalo Bills,9.0,6.0,218.0,1.0,301.0,3.0
+125,9.0,Dallas Cowboys,Denver Broncos,16.0,30.0,290.0,2.0,407.0,0.0
+126,9.0,Baltimore Ravens,Minnesota Vikings,34.0,31.0,500.0,2.0,318.0,0.0
+127,9.0,Carolina Panthers,New England Patriots,6.0,24.0,240.0,3.0,273.0,2.0
+128,9.0,Cincinnati Bengals,Cleveland Browns,16.0,41.0,348.0,3.0,361.0,0.0
+129,9.0,Miami Dolphins,Houston Texans,17.0,9.0,262.0,5.0,272.0,4.0
+130,9.0,New York Giants,Las Vegas Raiders,23.0,16.0,247.0,1.0,403.0,3.0
+131,9.0,Philadelphia Eagles,Los Angeles Chargers,24.0,27.0,331.0,0.0,445.0,0.0
+132,9.0,San Francisco 49ers,Arizona Cardinals,17.0,31.0,337.0,3.0,437.0,0.0
+133,9.0,Kansas City Chiefs,Green Bay Packers,13.0,7.0,237.0,0.0,301.0,2.0
+134,9.0,Los Angeles Rams,Tennessee Titans,16.0,28.0,347.0,2.0,194.0,1.0
+135,9.0,Pittsburgh Steelers,Chicago Bears,29.0,27.0,280.0,1.0,414.0,2.0
+136,10.0,Miami Dolphins,Baltimore Ravens,22.0,10.0,350.0,0.0,304.0,2.0
+137,10.0,Dallas Cowboys,Atlanta Falcons,43.0,3.0,431.0,1.0,214.0,3.0
+138,10.0,New York Jets,Buffalo Bills,17.0,45.0,366.0,5.0,489.0,2.0
+139,10.0,Pittsburgh Steelers,Detroit Lions,16.0,16.0,387.0,3.0,306.0,0.0
+140,10.0,Tennessee Titans,New Orleans Saints,23.0,21.0,264.0,0.0,373.0,1.0
+141,10.0,Washington Football Team,Tampa Bay Buccaneers,29.0,19.0,320.0,1.0,273.0,2.0
+142,10.0,New England Patriots,Cleveland Browns,45.0,7.0,452.0,0.0,217.0,1.0
+143,10.0,Indianapolis Colts,Jacksonville Jaguars,23.0,17.0,295.0,0.0,331.0,1.0
+144,10.0,Los Angeles Chargers,Minnesota Vikings,20.0,27.0,253.0,1.0,381.0,1.0
+145,10.0,Arizona Cardinals,Carolina Panthers,10.0,34.0,169.0,2.0,341.0,2.0
+146,10.0,Denver Broncos,Philadelphia Eagles,13.0,30.0,308.0,1.0,386.0,1.0
+147,10.0,Green Bay Packers,Seattle Seahawks,17.0,0.0,393.0,1.0,208.0,2.0
+148,10.0,Las Vegas Raiders,Kansas City Chiefs,14.0,41.0,299.0,2.0,516.0,1.0
+149,10.0,San Francisco 49ers,Los Angeles Rams,31.0,10.0,335.0,0.0,278.0,2.0
+150,11.0,Atlanta Falcons,New England Patriots,0.0,25.0,165.0,4.0,308.0,1.0
+151,11.0,Buffalo Bills,Indianapolis Colts,15.0,41.0,311.0,4.0,370.0,0.0
+152,11.0,Chicago Bears,Baltimore Ravens,13.0,16.0,353.0,1.0,299.0,1.0
+153,11.0,Tennessee Titans,Houston Texans,13.0,22.0,420.0,5.0,190.0,0.0
+154,11.0,Jacksonville Jaguars,San Francisco 49ers,10.0,30.0,200.0,2.0,333.0,0.0
+155,11.0,Philadelphia Eagles,New Orleans Saints,40.0,29.0,380.0,1.0,323.0,3.0
+156,11.0,Carolina Panthers,Washington Football Team,21.0,27.0,297.0,0.0,369.0,1.0
+157,11.0,Cleveland Browns,Detroit Lions,13.0,10.0,349.0,2.0,245.0,2.0
+158,11.0,Minnesota Vikings,Green Bay Packers,34.0,31.0,408.0,0.0,467.0,0.0
+159,11.0,New York Jets,Miami Dolphins,17.0,24.0,380.0,1.0,388.0,1.0
+160,11.0,Las Vegas Raiders,Cincinnati Bengals,13.0,32.0,278.0,2.0,288.0,1.0
+161,11.0,Kansas City Chiefs,Dallas Cowboys,19.0,9.0,370.0,2.0,276.0,3.0
+162,11.0,Seattle Seahawks,Arizona Cardinals,13.0,23.0,266.0,0.0,413.0,0.0
+163,11.0,Los Angeles Chargers,Pittsburgh Steelers,41.0,37.0,533.0,1.0,300.0,0.0
+164,11.0,Tampa Bay Buccaneers,New York Giants,30.0,10.0,402.0,1.0,215.0,3.0
+165,12.0,Detroit Lions,Chicago Bears,14.0,16.0,239.0,1.0,378.0,1.0
+166,12.0,Dallas Cowboys,Las Vegas Raiders,33.0,36.0,437.0,0.0,509.0,0.0
+167,12.0,New Orleans Saints,Buffalo Bills,6.0,31.0,190.0,1.0,361.0,2.0
+168,12.0,Jacksonville Jaguars,Atlanta Falcons,14.0,21.0,357.0,2.0,332.0,1.0
+169,12.0,Cincinnati Bengals,Pittsburgh Steelers,41.0,10.0,370.0,1.0,301.0,3.0
+170,12.0,Houston Texans,New York Jets,14.0,21.0,202.0,1.0,266.0,1.0
+171,12.0,New York Giants,Philadelphia Eagles,13.0,7.0,264.0,0.0,332.0,4.0
+172,12.0,Miami Dolphins,Carolina Panthers,33.0,10.0,315.0,1.0,198.0,3.0
+173,12.0,Indianapolis Colts,Tampa Bay Buccaneers,31.0,38.0,392.0,5.0,359.0,2.0
+174,12.0,New England Patriots,Tennessee Titans,36.0,13.0,394.0,0.0,355.0,4.0
+175,12.0,Denver Broncos,Los Angeles Chargers,28.0,13.0,302.0,1.0,357.0,2.0
+176,12.0,San Francisco 49ers,Minnesota Vikings,34.0,26.0,423.0,1.0,323.0,2.0
+177,12.0,Green Bay Packers,Los Angeles Rams,36.0,28.0,399.0,1.0,353.0,3.0
+178,12.0,Baltimore Ravens,Cleveland Browns,16.0,10.0,303.0,4.0,262.0,2.0
+179,12.0,Washington Football Team,Seattle Seahawks,17.0,15.0,371.0,1.0,267.0,1.0
+180,13.0,New Orleans Saints,Dallas Cowboys,17.0,27.0,405.0,4.0,377.0,1.0
+181,13.0,Atlanta Falcons,Tampa Bay Buccaneers,17.0,30.0,380.0,1.0,425.0,1.0
+182,13.0,Chicago Bears,Arizona Cardinals,22.0,33.0,329.0,4.0,257.0,0.0
+183,13.0,Cincinnati Bengals,Los Angeles Chargers,22.0,41.0,356.0,4.0,363.0,3.0
+184,13.0,Detroit Lions,Minnesota Vikings,29.0,27.0,372.0,2.0,426.0,1.0
+185,13.0,New York Jets,Philadelphia Eagles,18.0,33.0,281.0,1.0,418.0,0.0
+186,13.0,Houston Texans,Indianapolis Colts,0.0,31.0,141.0,2.0,389.0,1.0
+187,13.0,Miami Dolphins,New York Giants,20.0,9.0,297.0,0.0,250.0,1.0
+188,13.0,Seattle Seahawks,San Francisco 49ers,30.0,23.0,327.0,3.0,365.0,3.0
+189,13.0,Las Vegas Raiders,Washington Football Team,15.0,17.0,310.0,0.0,298.0,1.0
+190,13.0,Los Angeles Rams,Jacksonville Jaguars,37.0,7.0,418.0,0.0,197.0,2.0
+191,13.0,Pittsburgh Steelers,Baltimore Ravens,20.0,19.0,321.0,0.0,326.0,1.0
+192,13.0,Kansas City Chiefs,Denver Broncos,22.0,9.0,267.0,1.0,404.0,3.0
+193,13.0,Buffalo Bills,New England Patriots,10.0,14.0,230.0,1.0,241.0,1.0
+194,14.0,Minnesota Vikings,Pittsburgh Steelers,36.0,28.0,458.0,2.0,375.0,1.0
+195,14.0,Carolina Panthers,Atlanta Falcons,21.0,29.0,334.0,3.0,318.0,1.0
+196,14.0,Cincinnati Bengals,San Francisco 49ers,23.0,26.0,397.0,2.0,355.0,0.0
+197,14.0,Cleveland Browns,Baltimore Ravens,24.0,22.0,290.0,1.0,389.0,2.0
+198,14.0,Washington Football Team,Dallas Cowboys,20.0,27.0,224.0,4.0,323.0,2.0
+199,14.0,Houston Texans,Seattle Seahawks,13.0,33.0,380.0,0.0,453.0,0.0
+200,14.0,Tennessee Titans,Jacksonville Jaguars,20.0,0.0,263.0,0.0,192.0,4.0
+201,14.0,Kansas City Chiefs,Las Vegas Raiders,48.0,9.0,372.0,0.0,290.0,5.0
+202,14.0,New York Jets,New Orleans Saints,9.0,30.0,256.0,0.0,344.0,0.0
+203,14.0,Denver Broncos,Detroit Lions,38.0,10.0,358.0,0.0,316.0,2.0
+204,14.0,Los Angeles Chargers,New York Giants,37.0,21.0,423.0,0.0,316.0,2.0
+205,14.0,Tampa Bay Buccaneers,Buffalo Bills,33.0,27.0,488.0,0.0,466.0,1.0
+206,14.0,Green Bay Packers,Chicago Bears,45.0,30.0,439.0,0.0,347.0,3.0
+207,14.0,Arizona Cardinals,Los Angeles Rams,23.0,30.0,447.0,2.0,356.0,0.0
+208,15.0,Los Angeles Chargers,Kansas City Chiefs,28.0,34.0,428.0,2.0,496.0,2.0
+209,15.0,Indianapolis Colts,New England Patriots,27.0,17.0,275.0,1.0,365.0,2.0
+210,15.0,Buffalo Bills,Carolina Panthers,31.0,14.0,312.0,1.0,275.0,1.0
+211,15.0,Detroit Lions,Arizona Cardinals,30.0,12.0,338.0,1.0,398.0,1.0
+212,15.0,New York Giants,Dallas Cowboys,6.0,21.0,302.0,4.0,328.0,1.0
+213,15.0,Baltimore Ravens,Green Bay Packers,30.0,31.0,354.0,0.0,346.0,0.0
+214,15.0,Jacksonville Jaguars,Houston Texans,16.0,30.0,296.0,0.0,281.0,1.0
+215,15.0,Miami Dolphins,New York Jets,31.0,24.0,379.0,3.0,228.0,1.0
+216,15.0,Pittsburgh Steelers,Tennessee Titans,19.0,13.0,168.0,0.0,318.0,4.0
+217,15.0,San Francisco 49ers,Atlanta Falcons,31.0,13.0,397.0,1.0,275.0,1.0
+218,15.0,Denver Broncos,Cincinnati Bengals,10.0,15.0,292.0,1.0,249.0,0.0
+219,15.0,Tampa Bay Buccaneers,New Orleans Saints,0.0,9.0,302.0,2.0,212.0,0.0
+220,15.0,Cleveland Browns,Las Vegas Raiders,14.0,16.0,236.0,0.0,328.0,2.0
+221,15.0,Chicago Bears,Minnesota Vikings,9.0,17.0,370.0,3.0,193.0,1.0
+222,15.0,Philadelphia Eagles,Washington Football Team,27.0,17.0,519.0,2.0,237.0,0.0
+223,15.0,Los Angeles Rams,Seattle Seahawks,20.0,10.0,332.0,1.0,214.0,1.0
+224,16.0,Tennessee Titans,San Francisco 49ers,20.0,17.0,278.0,0.0,389.0,2.0
+225,16.0,Green Bay Packers,Cleveland Browns,24.0,22.0,311.0,0.0,408.0,4.0
+226,16.0,Arizona Cardinals,Indianapolis Colts,16.0,22.0,378.0,0.0,346.0,0.0
+227,16.0,Atlanta Falcons,Detroit Lions,20.0,16.0,254.0,1.0,338.0,1.0
+228,16.0,New England Patriots,Buffalo Bills,21.0,33.0,288.0,2.0,428.0,0.0
+229,16.0,Carolina Panthers,Tampa Bay Buccaneers,6.0,32.0,273.0,1.0,391.0,0.0
+230,16.0,Cincinnati Bengals,Baltimore Ravens,41.0,21.0,575.0,0.0,334.0,1.0
+231,16.0,Houston Texans,Los Angeles Chargers,41.0,29.0,437.0,0.0,417.0,3.0
+232,16.0,New York Jets,Jacksonville Jaguars,26.0,21.0,373.0,0.0,384.0,1.0
+233,16.0,Minnesota Vikings,Los Angeles Rams,23.0,30.0,361.0,1.0,356.0,3.0
+234,16.0,Philadelphia Eagles,New York Giants,34.0,10.0,324.0,0.0,192.0,2.0
+235,16.0,Seattle Seahawks,Chicago Bears,24.0,25.0,331.0,0.0,317.0,0.0
+236,16.0,Las Vegas Raiders,Denver Broncos,17.0,13.0,342.0,3.0,158.0,0.0
+237,16.0,Kansas City Chiefs,Pittsburgh Steelers,36.0,10.0,381.0,0.0,303.0,3.0
+238,16.0,Dallas Cowboys,Washington Football Team,56.0,14.0,497.0,0.0,257.0,2.0
+239,16.0,New Orleans Saints,Miami Dolphins,3.0,20.0,164.0,2.0,259.0,1.0
+240,17.0,Buffalo Bills,Atlanta Falcons,29.0,15.0,351.0,3.0,265.0,1.0
+241,17.0,New Orleans Saints,Carolina Panthers,18.0,10.0,280.0,0.0,178.0,2.0
+242,17.0,Chicago Bears,New York Giants,29.0,3.0,249.0,2.0,155.0,4.0
+243,17.0,Cincinnati Bengals,Kansas City Chiefs,34.0,31.0,475.0,0.0,414.0,0.0
+244,17.0,Indianapolis Colts,Las Vegas Raiders,20.0,23.0,262.0,0.0,326.0,2.0
+245,17.0,Dallas Cowboys,Arizona Cardinals,22.0,25.0,301.0,1.0,399.0,0.0
+246,17.0,New England Patriots,Jacksonville Jaguars,50.0,10.0,471.0,0.0,253.0,3.0
+247,17.0,Tennessee Titans,Miami Dolphins,34.0,3.0,308.0,0.0,256.0,2.0
+248,17.0,New York Jets,Tampa Bay Buccaneers,24.0,28.0,374.0,1.0,467.0,1.0
+249,17.0,Washington Football Team,Philadelphia Eagles,16.0,20.0,312.0,1.0,330.0,0.0
+250,17.0,Los Angeles Chargers,Denver Broncos,34.0,13.0,341.0,0.0,319.0,1.0
+251,17.0,San Francisco 49ers,Houston Texans,23.0,7.0,416.0,1.0,222.0,1.0
+252,17.0,Seattle Seahawks,Detroit Lions,51.0,29.0,497.0,0.0,357.0,3.0
+253,17.0,Baltimore Ravens,Los Angeles Rams,19.0,20.0,327.0,2.0,373.0,3.0
+254,17.0,Green Bay Packers,Minnesota Vikings,37.0,10.0,481.0,0.0,206.0,0.0
+255,17.0,Pittsburgh Steelers,Cleveland Browns,26.0,14.0,299.0,1.0,232.0,2.0
+256,18.0,Denver Broncos,Kansas City Chiefs,24.0,28.0,364.0,1.0,390.0,0.0
+257,18.0,Philadelphia Eagles,Dallas Cowboys,26.0,51.0,315.0,1.0,475.0,0.0
+258,18.0,Atlanta Falcons,New Orleans Saints,20.0,30.0,257.0,3.0,369.0,0.0
+259,18.0,Buffalo Bills,New York Jets,27.0,10.0,424.0,0.0,53.0,0.0
+260,18.0,Tampa Bay Buccaneers,Carolina Panthers,41.0,17.0,409.0,0.0,317.0,2.0
+261,18.0,Minnesota Vikings,Chicago Bears,31.0,17.0,331.0,0.0,356.0,2.0
+262,18.0,Cleveland Browns,Cincinnati Bengals,21.0,16.0,376.0,2.0,182.0,0.0
+263,18.0,Jacksonville Jaguars,Indianapolis Colts,26.0,11.0,318.0,0.0,233.0,2.0
+264,18.0,Detroit Lions,Green Bay Packers,37.0,30.0,404.0,0.0,378.0,3.0
+265,18.0,Houston Texans,Tennessee Titans,25.0,28.0,353.0,0.0,405.0,0.0
+266,18.0,Miami Dolphins,New England Patriots,33.0,24.0,298.0,0.0,379.0,3.0
+267,18.0,New York Giants,Washington Football Team,7.0,22.0,177.0,3.0,325.0,0.0
+268,18.0,Baltimore Ravens,Pittsburgh Steelers,13.0,16.0,381.0,3.0,314.0,1.0
+269,18.0,Arizona Cardinals,Seattle Seahawks,30.0,38.0,305.0,1.0,431.0,2.0
+270,18.0,Los Angeles Rams,San Francisco 49ers,24.0,27.0,265.0,2.0,449.0,2.0
+271,18.0,Las Vegas Raiders,Los Angeles Chargers,35.0,32.0,346.0,0.0,440.0,2.0
